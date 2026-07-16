@@ -25,7 +25,7 @@ public class Ex07 {
 		System.out.println("All elements = " + nums);
 		
 		nums.clear();
-		System.out.println("All elements = " + nums);
+		System.out.println("All elements = " + nuams);
 
 	}
 
